@@ -12,6 +12,9 @@ using Aufgabe_A4_2_4;
 using Aufgabe_A5_1_1;
 using Aufgabe_A5_1_2;
 using Aufgabe_A5_1_3;
+using Aufgabe_A6_2_1;
+using Aufgabe_A6_2_2;
+using Aufgabe_A6_2_4;
 
 namespace MB01
 {
@@ -50,6 +53,11 @@ namespace MB01
             //Application.Run(new A5_1_2());
             //Application.Run(new A5_1_3());
 
+            //A6-2
+            //Application.Run(new A6_2_1());
+            //Application.Run(new A6_2_2());
+            //Application.Run(new A6_2_3());
+            //Application.Run(new A6_2_4());
 
         }
     }
