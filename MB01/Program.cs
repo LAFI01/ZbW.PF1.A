@@ -9,6 +9,9 @@ using Aufgabe_A4_2_1;
 using Aufgabe_A4_2_2;
 using Aufgabe_A4_2_3;
 using Aufgabe_A4_2_4;
+using Aufgabe_A5_1_1;
+using Aufgabe_A5_1_2;
+using Aufgabe_A5_1_3;
 
 namespace MB01
 {
@@ -42,6 +45,10 @@ namespace MB01
             //Application.Run(new A4_2_3());
             //Application.Run(new A4_2_4());
 
+            //A5-1
+            //Application.Run(new A5_1_1());
+            //Application.Run(new A5_1_2());
+            //Application.Run(new A5_1_3());
 
 
         }
