@@ -1,20 +1,20 @@
-using Aufgabe_A1_2_1;
-using Aufgabe_A1_2_2;
-using Aufgabe_A1_2_3;
-using Aufgabe_A1_2_4;
-using Aufgabe_A1_2_5;
-using Aufgabe_A2_1_2;
-using Aufgabe_A2_1_3;
-using Aufgabe_A4_2_1;
-using Aufgabe_A4_2_2;
-using Aufgabe_A4_2_3;
-using Aufgabe_A4_2_4;
-using Aufgabe_A5_1_1;
-using Aufgabe_A5_1_2;
-using Aufgabe_A5_1_3;
-using Aufgabe_A6_2_1;
-using Aufgabe_A6_2_2;
-using Aufgabe_A6_2_4;
+using MB01.A1_2;
+using MB01.A1_2;
+using MB01.A1_2;
+using MB01.A1_2;
+using MB01.A1_2;
+using MB01.A2_1;
+using MB01.A2_1;
+using MB01.A4_2;
+using MB01.A4_2;
+using MB01.A4_2;
+using MB01.A4_2;
+using MB01.A5_1;
+using MB01.A5_1;
+using MB01.A5_1;
+using MB01.A6_2;
+using MB01.A6_2;
+using MB01.A6_2;
 
 namespace MB01
 {
