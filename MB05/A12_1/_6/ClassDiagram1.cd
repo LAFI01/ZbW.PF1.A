@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Aufgabe_A12_1_6.Controller.ClassManager">
+    <Position X="8.75" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAAIIAAICAQA=</HashCode>
+      <FileName>Controller\ClassManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="students" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Aufgabe_A12_1_6.Model.Exam">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAgAAAAAAAAAAAAAABAAAAAAEAAAA=</HashCode>
+      <FileName>Model\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aufgabe_A12_1_6.Model.Student">
+    <Position X="8.75" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>RAAAgEAEEAAAAEAIgAAAAAAAAAAIAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Model\Student.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="subjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Aufgabe_A12_1_6.Model.Subject">
+    <Position X="4.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAABAAAAgACAAAQAAAAAAAAABDAAAAEgQCA=</HashCode>
+      <FileName>Model\Subject.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="exams" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Aufgabe_A12_1_6.Form1">
+    <Position X="3.25" Y="5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAQAAACCAQACAAAAAAAAAQQAASAAAAA=</HashCode>
+      <FileName>View\Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cm" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
