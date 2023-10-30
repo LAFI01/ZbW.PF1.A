@@ -33,7 +33,7 @@ namespace MB01.A4_2
                 NumNumber1.BackColor = equal;
                 NumNumber2.BackColor = equal;
                 LblMessage1.Text = "Zahl 1 ist gleich gross wie Zahl 2";
-                LblMessage1.Text = "Zahl 2 ist gleich gross wie Zahl 2";
+                LblMessage1.Text = "Zahl 2 ist gleich gross wie Zahl 1";
 
             }
         }

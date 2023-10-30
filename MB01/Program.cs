@@ -31,7 +31,7 @@ namespace MB01
             ApplicationConfiguration.Initialize();
             
             //A1-2
-            Application.Run(new A1_2_1());
+            //Application.Run(new A1_2_1());
             //Application.Run(new A1_2_2());
             //Application.Run(new A1_2_3());
             //Application.Run(new A1_2_4());
@@ -43,7 +43,7 @@ namespace MB01
             //Application.Run(new A2_1_3());
 
             //A4-2
-            //Application.Run(new A4_2_1());
+            Application.Run(new A4_2_1());
             //Application.Run(new A4_2_2());
             //Application.Run(new A4_2_3());
             //Application.Run(new A4_2_4());
