@@ -1,8 +1,6 @@
-﻿using System;
-using System.Windows.Forms;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
-namespace MB01.A8_2
+namespace MB01.A8_1
 {
     public partial class A8_2_1 : Form
     {
@@ -50,20 +48,20 @@ namespace MB01.A8_2
 
             catch (DivideByZeroException)
             {
-                
+
                 MessageBox.Show("Division durch 0 nicht erlaubt", "Fehler!",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
             catch (OverflowException)
             {
-                MessageBox.Show("Zahlen sind zu gross. Maximal:" + sbyte.MaxValue + 
+                MessageBox.Show("Zahlen sind zu gross. Maximal:" + sbyte.MaxValue +
                     ", Minimal: " + sbyte.MinValue, "Fehler!",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Unterwarteter Fehler ist aufgetreten: " + 
+                MessageBox.Show("Unterwarteter Fehler ist aufgetreten: " +
                     ex.GetType(), "Fehler!",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
