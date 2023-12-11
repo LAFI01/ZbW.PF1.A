@@ -1,0 +1,12 @@
+a) Max, Muster, 22
+b) 
+Max, Muster, 22
+Max, Muster, 22
+
+c)
+Anna, Bolika, 33
+Max, Muster, 22
+
+d)
+
+Hans, Keller, 22

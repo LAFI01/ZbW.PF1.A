@@ -1,4 +1,4 @@
-using MB04.A12_1._1;
+using MB04.A12_1._2;
 using MB04.A12_1._3;
 
 namespace MB04
@@ -15,7 +15,7 @@ namespace MB04
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
 
-            Application.Run(new A12_1_1());
+            Application.Run(new A12_1_2());
             //Application.Run(new A12_1_3());
 
         }
