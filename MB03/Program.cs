@@ -1,3 +1,21 @@
+using MB03.A1_2;
+using MB03.A1_2;
+using MB03.A1_2;
+using MB03.A1_2;
+using MB03.A1_2;
+using MB03.A2_1;
+using MB03.A2_1;
+using MB03.A4_2;
+using MB03.A4_2;
+using MB03.A4_2;
+using MB03.A4_2;
+using MB03.A5_1;
+using MB03.A5_1;
+using MB03.A5_1;
+using MB03.A6_2;
+using MB03.A6_2;
+using MB03.A6_2;
+
 namespace MB03
 {
     internal static class Program
@@ -11,7 +29,36 @@ namespace MB03
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            
+            //A1-2
+            //Application.Run(new A1_2_1());
+            //Application.Run(new A1_2_2());
+            //Application.Run(new A1_2_3());
+            //Application.Run(new A1_2_4());
+            //Application.Run(new A1_2_5());
+
+            //A2-1
+            //Application.Run(new A2_1_1());
+            //Application.Run(new A2_1_2());
+            //Application.Run(new A2_1_3());
+
+            //A4-2
+            Application.Run(new A4_2_1());
+            //Application.Run(new A4_2_2());
+            //Application.Run(new A4_2_3());
+            //Application.Run(new A4_2_4());
+
+            //A5-1
+            //Application.Run(new A5_1_1());
+            //Application.Run(new A5_1_2());
+            //Application.Run(new A5_1_3());
+
+            //A6-2
+            //Application.Run(new A6_2_1());
+            //Application.Run(new A6_2_2());
+            //Application.Run(new A6_2_3());
+            //Application.Run(new A6_2_4());
+
         }
     }
 }
