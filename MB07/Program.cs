@@ -1,7 +1,7 @@
-using MB04.A12_1._2;
-using MB04.A12_1._3;
+using MB07.A12_1._2;
+using MB07.A12_1._3;
 
-namespace MB04
+namespace MB07
 {
     internal static class Program
     {

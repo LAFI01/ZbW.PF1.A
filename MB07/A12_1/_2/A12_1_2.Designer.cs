@@ -1,4 +1,4 @@
-﻿namespace MB04.A12_1._2
+﻿namespace MB07.A12_1._2
 {
     partial class A12_1_2
     {

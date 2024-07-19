@@ -1,5 +1,5 @@
 ﻿
-namespace MB04.A12_1._2
+namespace MB07.A12_1._2
 {
     class Person
     {
