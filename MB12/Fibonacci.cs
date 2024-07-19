@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MB08
+namespace MB12
 {
     public static class Fibonacci
     {

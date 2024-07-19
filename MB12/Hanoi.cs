@@ -1,4 +1,4 @@
-﻿namespace MB08
+﻿namespace MB12
 {
     public static class Hanoi
     {
