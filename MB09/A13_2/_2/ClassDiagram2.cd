@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Analyseaufgabe_A13_2_2.Model.Medium">
+    <Position X="4.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAQAAAAAAAAAAAgAAAAIAAgAABAAAgAQAAA=</HashCode>
+      <FileName>Model\Medium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyseaufgabe_A13_2_2.Model.DVD">
+    <Position X="2.5" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAgAgAAAAAAAAAA=</HashCode>
+      <FileName>Model\DVD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyseaufgabe_A13_2_2.Model.CD">
+    <Position X="6.25" Y="5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAAAAAAAAAAAAAAAAAAAAgAAQAAAAEAAAA=</HashCode>
+      <FileName>Model\CD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyseaufgabe_A13_2_2.Controller.Datenbank">
+    <Position X="11.5" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAEAACAAAAAAAAAAAAAAhAAAAAgAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>Controller\Datenbank.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cds" />
+      <Field Name="dvds" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Analyseaufgabe_A13_2_2.Form1" Collapsed="true">
+    <Position X="11.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAECQCAAAAAAEACIAgICAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>View\Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Db" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
