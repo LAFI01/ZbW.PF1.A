@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace MB03.A4_2
+namespace MB02.A4_2
 {
     public partial class A4_2_2 : Form
     {
